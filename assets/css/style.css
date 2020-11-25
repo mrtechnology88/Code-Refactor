@@ -37,14 +37,14 @@ float:right;
     color: #d9dcd6;
 }
 
-.header>a {
+/*.header>a {
 
     vertical-align: top;
     margin-right: 20px;
     height: 80px;
     line-height: 65px;
 }
-
+*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
