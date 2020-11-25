@@ -27,7 +27,7 @@ body {
 /*This id is used to control the direction of the menu items*/
 
 #menu-items {
-float:left;
+float:right;
      vertical-align: top;
     margin-right: 20px;
     height: 80px;
