@@ -9,12 +9,17 @@ body {
 }
 /*This id is used to control the styling of the menu items*/
 #menu-items {
-float:right;
-     vertical-align: top;
+    
+    float:right;
+    vertical-align: top;
     margin-right: 20px;
     height: 80px;
     line-height: 65px;
 }
+#menu-items > a {
+    padding-right: 30px;
+    
+} 
 
 /*These CSS Controls The Styling Of The Navigation Bar*/
 
