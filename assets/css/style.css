@@ -24,7 +24,9 @@ body {
     display: inline-block;
 
 }
-
+#menu-items {
+float:right;
+}
 .header h1 .seo {
     color: #d9dcd6;
 }
