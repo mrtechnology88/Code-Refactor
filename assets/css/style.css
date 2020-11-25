@@ -24,8 +24,14 @@ body {
     display: inline-block;
 
 }
+/*This id is used to control the direction of the menu items*/
+
 #menu-items {
 float:left;
+     vertical-align: top;
+    margin-right: 20px;
+    height: 80px;
+    line-height: 65px;
 }
 .header h1 .seo {
     color: #d9dcd6;
@@ -37,7 +43,6 @@ float:left;
     margin-right: 20px;
     height: 80px;
     line-height: 65px;
-    float: right;
 }
 
 .header h1 {
