@@ -16,7 +16,7 @@ body {
     height: 80px;
     line-height: 65px;
 }
-#menu-items > a {
+a:link {
     padding-right: 30px;
     
 } 
