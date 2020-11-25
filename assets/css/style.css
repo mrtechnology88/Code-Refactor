@@ -7,6 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
+/*This id is used to control the styling of the menu items*/
+#menu-items {
+float:right;
+     vertical-align: top;
+    margin-right: 20px;
+    height: 80px;
+    line-height: 65px;
+}
 
 /*These CSS Controls The Styling Of The Navigation Bar*/
 
@@ -24,27 +32,13 @@ body {
     display: inline-block;
 
 }
-/*This id is used to control the direction of the menu items*/
 
-#menu-items {
-float:right;
-     vertical-align: top;
-    margin-right: 20px;
-    height: 80px;
-    line-height: 65px;
-}
+
+
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-/*.header>a {
-
-    vertical-align: top;
-    margin-right: 20px;
-    height: 80px;
-    line-height: 65px;
-}
-*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
