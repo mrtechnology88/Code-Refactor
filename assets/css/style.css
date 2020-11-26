@@ -7,19 +7,21 @@
 body {
     background-color: #d9dcd6;
 }
+
 /*This id is used to control the styling of the menu items*/
 #menu-items {
-    
-    float:right;
+
+    float: right;
     vertical-align: top;
     margin-right: 20px;
     height: 80px;
     line-height: 65px;
 }
+
 a:link {
     padding-right: 40px;
-    
-} 
+
+}
 
 /*These CSS Controls The Styling Of The Navigation Bar*/
 
@@ -204,13 +206,13 @@ p {
 
 
 /*This CSS Controls The Styling Of The Footer Section*/
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
