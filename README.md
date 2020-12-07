@@ -1,4 +1,4 @@
-# Home Work 1
+# Code Refactor
 - Downloaded the required assignment
 - Recoded the index.html and Style.css To Semantic HTML Standards
 - Replaced the ul with nav tags.
